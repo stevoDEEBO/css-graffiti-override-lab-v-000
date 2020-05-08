@@ -20,7 +20,7 @@
     display: none;
   }
 
-#wall .parent :nth-child(2) #tag-6 {
+#wall .parent + .parent :last-child #tag-6 {
     display: none;
   }
 
